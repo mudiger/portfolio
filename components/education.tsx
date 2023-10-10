@@ -21,7 +21,7 @@ export default function Education() {
           </div>
           <div>
             <p className=" text-gray-500 font-medium">Aug 2022 - May 2024</p>
-            <p className="mt-2  text-lg font-medium">Master's in Computer Science <br></br>University Of Texas at Arlington</p>
+            <p className="mt-2  text-lg font-medium">Master&apos;s in Computer Science <br></br>University Of Texas at Arlington</p>
           </div>
         </li>
         
