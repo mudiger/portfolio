@@ -26,7 +26,7 @@ export default function Experience() {
         </li>
         
         <li className="relative flex items-baseline gap-6 pb-5">
-          <div>
+          <div className="before:absolute before:left-[5.5px] before:h-full before:w-[2px] before:bg-gray-400">
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" className="bi bi-circle-fill fill-gray-400" viewBox="0 0 16 16">
               <circle cx="8" cy="8" r="8" />
             </svg>
@@ -34,6 +34,17 @@ export default function Experience() {
           <div>
             <p className=" text-gray-500 font-medium">2021 - 2022</p>
             <p className="mt-2  text-lg font-medium">Web Developer Intern<br></br>Hopnet Communications LLP,India</p>
+          </div>
+        </li>
+        <li className="relative flex items-baseline gap-6 pb-5">
+          <div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" className="bi bi-circle-fill fill-gray-400" viewBox="0 0 16 16">
+              <circle cx="8" cy="8" r="8" />
+            </svg>
+          </div>
+          <div>
+            <p className=" text-gray-500 font-medium">2020 - 2021</p>
+            <p className="mt-2  text-lg font-medium">Software Engineer<br></br>EAMVEY,India</p>
           </div>
         </li>
       </ul>
