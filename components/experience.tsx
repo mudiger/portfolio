@@ -20,8 +20,8 @@ export default function Experience() {
             </svg>
           </div>
           <div>
-            <p className=" text-gray-500 font-medium">2022 - Present</p>
-            <p className="mt-2  text-lg font-medium">Student Assistant <br></br>University Of Texas at Arlington</p>
+            <p className=" text-gray-500 font-medium">2023 - Present</p>
+            <p className="mt-2  text-lg font-medium">Web Developer <br></br>University Of Texas at Arlington</p>
           </div>
         </li>
         
