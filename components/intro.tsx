@@ -24,7 +24,7 @@ const {setActiveSection,setTimeOfLastClick}=useActiveSectionContext();
         </div>
         <motion.h1 className='mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-2xl' initial={{opacity:0,y:100}} animate={{opacity:1,y:0}}>
         <span className="font-bold">Hello, I&apos;m Umesh Chandra Karagatla.</span><br></br>
-        A <span className='font-bold'>Computer Science graduate</span>{" "}with a keen interest in {" "}<span className='font-bold'>Full Stack Development</span>{" "} and <span className='font-bold'>DevOps</span>, known for relentless passion for learning and a collaborative team spirit. 
+        A <span className='font-bold'>Computer Science graduate</span>{" "}with a keen interest in {" "}<span className='font-bold'>Full Stack Development</span>, known for relentless passion for learning and a collaborative team spirit. 
         </motion.h1>
 
         <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium'initial={{opacity:0,y:100}} animate={{opacity:1,y:0}} transition={{delay:0.3,}}>
