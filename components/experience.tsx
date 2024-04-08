@@ -44,7 +44,7 @@ export default function Experience() {
           </div>
           <div>
             <p className=" text-gray-500 font-medium">2020 - 2021</p>
-            <p className="mt-2  text-lg font-medium">Associate Software Engineer<br></br>MouriTech,India</p>
+            <p className="mt-2  text-lg font-medium">Software Engineer<br></br>CitraTek,India</p>
           </div>
         </li>
       </ul>
