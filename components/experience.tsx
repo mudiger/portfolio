@@ -36,14 +36,6 @@ export default function Experience() {
             <p className="mt-2  text-lg font-medium">Software Engineer<br></br>MouriTech,India</p>
           </div>
         </li>
-        <li className="relative flex items-baseline gap-6 pb-5">
-          <div>
-            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" className="bi bi-circle-fill fill-gray-400" viewBox="0 0 16 16">
-              <circle cx="8" cy="8" r="8" />
-            </svg>
-          </div>
-          
-        </li>
       </ul>
     </div>
   </motion.section>
