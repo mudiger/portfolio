@@ -32,8 +32,8 @@ export default function Experience() {
             </svg>
           </div>
           <div>
-            <p className=" text-gray-500 font-medium">2021 - 2022</p>
-            <p className="mt-2  text-lg font-medium">Software Engineer<br></br>Hopnet Communications LLP,India</p>
+            <p className=" text-gray-500 font-medium">2020 - 2022</p>
+            <p className="mt-2  text-lg font-medium">Software Engineer<br></br>MouriTech,India</p>
           </div>
         </li>
         <li className="relative flex items-baseline gap-6 pb-5">
@@ -42,10 +42,7 @@ export default function Experience() {
               <circle cx="8" cy="8" r="8" />
             </svg>
           </div>
-          <div>
-            <p className=" text-gray-500 font-medium">2020 - 2021</p>
-            <p className="mt-2  text-lg font-medium">Software Engineer<br></br>CitraTek,India</p>
-          </div>
+          
         </li>
       </ul>
     </div>
