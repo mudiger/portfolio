@@ -14,14 +14,6 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
-  },
-  {
-    name: "Skills",
-    hash: "#skills",
-  },
-  {
     name: "Experience",
     hash: "#experience",
   },
@@ -29,6 +21,15 @@ export const links = [
     name: "Education",
     hash: "#education",
   },
+  {
+    name: "Projects",
+    hash: "#projects",
+  },
+  {
+    name: "Skills",
+    hash: "#skills",
+  },
+
   {
     name: "Contact",
     hash: "#contact",
@@ -39,74 +40,55 @@ export const links = [
 
 export const projectsData = [
   {
-    title: "Analysing Disneyland Reviews",
+    title: "Socket-Programming-Project-1",
     description:
-      "Built a machine learning model utilizing LSTM algorithm to classify reviews into three categories: positive, negative, and neutral.",
-    tags: ["Machine Learning", "LSTM", "NLP", "Sentiment Analysis"],
+      "Built Socket-Programming-Project-1",
+    tags: ["Mulit threading", "Python"],
     imageUrl: disneylandImg,
   },
   {
-    title: "Cloud Native Monitoring Application",
+    title: "Computer-Networks-Project-3",
     description:
-      "Python application developed using flask which measures system's CPU and Memory Utilization.",
-    tags: ["Python", "Flask", "Psutil", "Docker", "EKS","Kubernetes"],
+      "Built Computer-Networks-Project-3",
+    tags: ["Python", "Bellman Ford", "Nodes"],
     imageUrl: cloudnativeImg,
   },
-  {
-    title: "UTA MS CS Website",
-    description:
-      "Developed a full stack web application that measures performance of MS CS Academic Program",
-    tags: ["React", "PHP", "Node.js", "Laravel", "MongoDB"],
-    imageUrl: mscsImg,
-  },
-] as const;
-
-export const skillsData = [
-  "Java",
-  "Python",
-  "Golang",
-  "C",
 ] as const;
 
 export const skillsData1 = [
-  "MySQL",
-  "MongoDB",
-  "PostgreSQL",
-  "Orcale RDMS",
+  "Python",
+  "JavaScript",
+  "Typescript",
+  "Java",
+  "HTML",
+  "CSS",
+  "SQL"
 ] as const;
 
 export const skillsData2 = [
-  "Spring Boot",
-  "JUnit",
-  "Mockito",
-  "Django",
-  ".Net",
-  "ADO.Net",
-] as const;
-export const skillsData3 = [
-  "ReactJS",
-  "NextJS",
-  "Typescript",
-  "NodeJS",
-  "AngularJS",
-  "JavaScript",
-  "HTML",
-  "CSS",
+  "Linux",
+  "React.js",
+  "Next.js",
+  "Flask",
+  "Amazon Web Services (AWS)",
+  "Azure",
   "Tailwind",
-  "Framer Motion",
-] as const;
-export const skillsData4 = [
-  "AWS EC2",
-  "AWS ECS",
-  "AWS EKS",
-  "Docker",
-  "Kubernetes",
-  "Fargate",
-] as const;
-export const skillsData5 = [
-  "VSCode",
-  "IntelliJ",
-  "Jenkins",
+  "Bootstrap",
+  "JDBC",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "Oracle DB",
+  "Oracle EBS",
   "Git",
-
+  "Docker",
+  "Maven",
+  "Jenkins",
+  "GitHub Actions",
+  "Tosca (Vision AI)",
+  "NeoLoad",
+  "Panaya",
+  "Microsoft Visual Studio",
+  "JetBrains PyCharm",
+  "Jira"
 ] as const;
