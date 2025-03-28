@@ -1,6 +1,6 @@
 import React from "react";
 
-import disneylandImg from "@/public/disneyland.png";
+import linkedinpost from "@/public/linkedinPost.png";
 import cloudnativeImg from "@/public/cloudnative.png";
 import mscsImg from "@/public/mscs.png";
 
@@ -44,7 +44,7 @@ export const projectsData = [
     description:
       "LinkedIn AI Detector is a Chrome extension that helps users analyze LinkedIn posts and determine whether the content is AI-generated.",
     tags: ["JavaScript", "Node.js", "Express.js", "GroqCloud API", "Chrome API"],
-    imageUrl: disneylandImg,
+    imageUrl: linkedinpost,
   },
   {
     title: "Ecommerce CI/CD",
