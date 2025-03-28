@@ -40,17 +40,17 @@ export const links = [
 
 export const projectsData = [
   {
-    title: "Socket-Programming-Project-1",
+    title: "LinkedIn AI Detector",
     description:
-      "Built Socket-Programming-Project-1",
-    tags: ["Mulit threading", "Python"],
+      "LinkedIn AI Detector is a Chrome extension that helps users analyze LinkedIn posts and determine whether the content is AI-generated.",
+    tags: ["JavaScript", "Node.js", "Express.js", "GroqCloud API", "Chrome API"],
     imageUrl: disneylandImg,
   },
   {
-    title: "Computer-Networks-Project-3",
+    title: "Ecommerce CI/CD Pipeline",
     description:
-      "Built Computer-Networks-Project-3",
-    tags: ["Python", "Bellman Ford", "Nodes"],
+      "Ecommerce CI/CD Pipeline is a modern e-commerce frontend built with Next.js and TypeScript, showcasing a clean architecture and end-to-end automation through CI/CD.",
+    tags: ["React.js", "Tailwind CSS", "GitHub Actions", "Docker", "AWS ECR", "AWS ECS", "AWS Fargate", "AWS ELB"],
     imageUrl: cloudnativeImg,
   },
 ] as const;
