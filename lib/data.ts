@@ -47,7 +47,7 @@ export const projectsData = [
     imageUrl: disneylandImg,
   },
   {
-    title: "Ecommerce CI/CD Pipeline",
+    title: "Ecommerce CI/CD",
     description:
       "Ecommerce CI/CD Pipeline is a modern e-commerce frontend built with Next.js and TypeScript, showcasing a clean architecture and end-to-end automation through CI/CD.",
     tags: ["React.js", "Tailwind CSS", "GitHub Actions", "Docker", "AWS ECR", "AWS ECS", "AWS Fargate", "AWS ELB"],
