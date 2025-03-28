@@ -49,8 +49,8 @@ export const projectsData = [
   {
     title: "Ecommerce CI/CD",
     description:
-      "Ecommerce CI/CD Pipeline is a modern e-commerce frontend built with Next.js and TypeScript, showcasing a clean architecture and end-to-end automation through CI/CD.",
-    tags: ["React.js", "Tailwind CSS", "GitHub Actions", "Docker", "AWS ECR", "AWS ECS", "AWS Fargate", "AWS ELB"],
+      "A modern e-commerce frontend website built with Next.js and TypeScript, showcasing a clean architecture and end-to-end automation through CI/CD.",
+    tags: ["React.js", "GitHub Actions", "Docker", "AWS ECR", "AWS ECS", "AWS Fargate"],
     imageUrl: cloudnativeImg,
   },
 ] as const;
